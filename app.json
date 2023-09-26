@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/MayankRai30/file",
-  "logo": "https://telegra.ph/file/12921701faf018f20c6a4.jpg",
+  "logo": "http://telegra.ph/file/c843e35731b9b745a4c8c.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
